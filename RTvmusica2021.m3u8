@@ -4,9 +4,9 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 #EXTINF:0,TELETICINO
 #EXTGRP:MUSICA TV
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
-#EXTINF:-1 ,NBC MILANO 70/80 TV
+#EXTINF:0,RAI RADIO2 TV 
 #EXTGRP:MUSICA TV
-http://wz3.newradio.it:1935/9050/9050/chunklist_w1743912937.m3u8
+https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/raievent9_2400/chunklist.m3u8
 #EXTINF:-1 ,RTL 102.5 TV
 #EXTGRP:MUSICA TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist_1.m3u8
@@ -40,9 +40,12 @@ https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist_1.m3u
 #EXTINF:0,RADIO FRECCIA TV
 #EXTGRP:MUSICA TV
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
+#EXTINF:-1 ,NBC MILANO 70/80 TV
+#EXTGRP:MUSICA TV
+http://wz3.newradio.it:1935/9050/9050/chunklist_w1743912937.m3u8
 #EXTINF:-1 ,OTTOFM 80  TV
 #EXTGRP:MUSICA TV
-http://streaming.bitonlive.net:8080/hls/ottofmtv/264_263/index.m3u8?sessId=2306826
+http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
 #EXTINF:0,RETRO MUSIC TV
 #EXTGRP:MUSICA TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8

@@ -3,8 +3,8 @@
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 #EXTINF:0,TELETICINO
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
-#EXTINF:0,RAI RADIO2 TV
-https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/raievent9_2400/chunklist.m3u8
+#EXTINF:0,RADIOTICINO TV - (solo con provider swisscom)
+rtp://239.186.68.192:10000
 #EXTINF:0,RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist_1.m3u8
 #EXTINF:0,RTL 102.5 BEST TV

@@ -1,0 +1,532 @@
+#EXTM3U
+#EXTINF:0,RADIO3iTV
+#EXTGRP:unsorted
+https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+#EXTINF:0,TELETICINO
+#EXTGRP:unsorted
+https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+#EXTINF:0,RADIOTICINOTV
+#EXTGRP:unsorted
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/chunklist_b2000000.m3u8
+#EXTINF:0,RADIOTICINOTV-Stream2
+#EXTGRP:unsorted
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/chunklist_b600000.m3u8
+#EXTINF:0,Vintage Radio Tv ITALY 
+#EXTGRP:unsorted
+https://stream4.xdevel.com/video0s975967-804/stream/playlist.m3u8
+#EXTINF:0,VINTAGE RADIO TV 2 ITALY 
+#EXTGRP:unsorted
+https://tivustream.website/urls/vintageradiotv
+#EXTINF:0,RADIO 80 FOREVER YOUNG
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:0,NBC MILANO 70/80 TV
+#EXTGRP:unsorted
+http://wz3.newradio.it:1935/9050/9050/chunklist_w1743912937.m3u8
+#EXTINF:0,OTTOFM 80  TV
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
+#EXTINF:0,RETRO MUSIC TV
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,CLASSIC TV 
+#EXTGRP:unsorted
+https://www.classictv.it/VIDEOMANAGER/Video/Wham%20%20%20%20%20%20%20Im%20Your%20Man.m4v
+#EXTINF:0,Vuemme
+#EXTGRP:unsorted
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:0,RTL102.5
+#EXTGRP:unsorted
+https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist_1.m3u8
+#EXTINF:0,RTL102.5 BEST 
+#EXTGRP:unsorted
+https://streamcdnm31-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b1728000.m3u8
+#EXTINF:0,RTL102.5 DOC 
+#EXTGRP:unsorted
+https://streamcdnm7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b2816000.m3u8
+#EXTINF:0,RTL 102.5 NEWS
+#EXTGRP:unsorted
+https://streamcdng65-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b2816000.m3u8
+#EXTINF:0,RTL102.5 NAPULÈ 
+#EXTGRP:unsorted
+https://streamcdng10-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b2816000.m3u8
+#EXTINF:0,RTL102.5 GUARDIA COSTIERA 
+#EXTGRP:unsorted
+https://streamcdng21-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S74387724/i1n4kZcs4Ah8/chunklist_b2816000.m3u8
+#EXTINF:0,RTL102.5 ROMEO&JULIET 
+#EXTGRP:unsorted
+https://streamcdng7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b2816000.m3u8
+#EXTINF:0,RTL102.5 BRO&SIS
+#EXTGRP:unsorted
+https://streamcdng49-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b2816000.m3u8
+#EXTINF:0,RADIO FRECCIA RTL
+#EXTGRP:unsorted
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/chunklist_b2816000.m3u8
+#EXTINF:0,RADIO ZETA RTL
+#EXTGRP:unsorted
+https://streamcdng68-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist_b2816000.m3u8
+#EXTINF:0,RDS Social Tv
+#EXTGRP:unsorted
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:0,RADIO ITALIA TV
+#EXTGRP:unsorted
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:0,RADIO TV OLTRE LIMITE
+#EXTGRP:unsorted
+https://585b674743bbb.streamlock.net/9068/9068/playlist.m3u8
+#EXTINF:0,STINGRAY CLASSICA
+#EXTGRP:unsorted
+http://stirr.ott-channels.stingray.com/iota-classica/index_1920x1080_4500kbps.m3u8
+#EXTINF:0,STINGRAY DJAZZ
+#EXTGRP:unsorted
+http://stirr.ott-channels.stingray.com/djazz/master_1920x1080_4500kbps.m3u8
+#EXTINF:0,STINGRAY KARAOKE
+#EXTGRP:unsorted
+http://stirr.ott-channels.stingray.com/karaoke/master_1920x1080_4500kbps.m3u8
+#EXTINF:0,STINGRAY NATURE ESCAPE
+#EXTGRP:unsorted
+http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:0,STINGRAY QELLO
+#EXTGRP:unsorted
+http://stirr.ott-channels.stingray.com/qello/master_1920x1080_4500kbps.m3u8
+#EXTINF:0,STEREOCITTA TV PADOVA
+#EXTGRP:unsorted
+https://585b674743bbb.streamlock.net/9080/9080/chunklist_w2138950987.m3u8
+#EXTINF:0,RADIO SYSTEM TV BRINDISI
+#EXTGRP:unsorted
+https://w1.mediastreaming.it/radiosystemtv/livestream/chunklist_w3836926.m3u8
+#EXTINF:0,RAV - RADIO ANTENNA VERDE TV - GOLFO DI GAETA LAZIO
+#EXTGRP:unsorted
+https://585b674743bbb.streamlock.net/9002/9002/chunklist_w338598956.m3u8
+#EXTINF:0,R101 TV
+#EXTGRP:unsorted
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)
+#EXTINF:0,RADIO LOMBARDIA TV
+#EXTGRP:unsorted
+http://flash7.xdevel.com:1935/radiolombardiatv/radiolombardiatv/playlist.m3u8
+#EXTINF:0,RADIO ITALIA TV
+#EXTGRP:unsorted
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:0,RADIOITALIA VISION
+#EXTGRP:unsorted
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:0,RADIONORBA TV
+#EXTGRP:unsorted
+http://flash2.xdevel.com/norbatv/smil:norbatv.smil/chunklist_b864000_slita.m3u8
+#EXTINF:0,RADIONUMBER ONE TV
+#EXTGRP:unsorted
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:0,RADIO BIRIKINA TV
+#EXTGRP:unsorted
+http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
+#EXTINF:0,Radio Bella e Monella Tv
+#EXTGRP:unsorted
+http://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
+#EXTINF:0,RADIO CAPITAL TV
+#EXTGRP:unsorted
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:0,RADIO IGLESIAS TV
+#EXTGRP:unsorted
+http://59d7d6f47d7fc.streamlock.net:1935/visualradio/visualradio/playlist.m3u8
+#EXTINF:0,GIORNALERADIO TV
+#EXTGRP:unsorted
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/chunklist_w372370507.m3u8
+#EXTINF:0,RADIO CARINA TV POTENZA
+#EXTGRP:unsorted
+https://59d8c0cee6f3d.streamlock.net/carinatv/carinatv/chunklist_w1263826318.m3u8
+#EXTINF:0,RTA RADOTVAZZURRA TV PALERMO
+#EXTGRP:unsorted
+https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/chunklist_w421325306.m3u8
+#EXTINF:0,ZEROUNO TV MESSINA
+#EXTGRP:unsorted
+https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/chunklist_w746183000.m3u8
+#EXTINF:0,HIT FM TV LAZIO
+#EXTGRP:unsorted
+https://5db313b643fd8.streamlock.net/HITTV/HITTV/chunklist_w486595034.m3u8
+#EXTINF:0,RADIO CAPITAL TV
+#EXTGRP:unsorted
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,LADY RADIO TV
+#EXTGRP:unsorted
+http://flash8.xdevel.com/ladyradiovideo/ladyradiovideo/playlist.m3u8
+#EXTINF:0,RADIO IBIZA DANCE TV STATION
+#EXTGRP:unsorted
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1576955339.m3u8
+#EXTINF:0,RADIO PILATUS TV
+#EXTGRP:unsorted
+http://rp_tv_1.vedge.infomaniak.com/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:0,TELECAPODISTRIA KOPER TV
+#EXTGRP:unsorted
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+#EXTINF:0,RTL Belgio
+#EXTGRP:unsorted
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?fluxustv.m3u8
+#EXTINF:0,EARTH TV TEST
+#EXTGRP:unsorted
+https://tivustream.website/urls/hearttv
+#EXTINF:0,RADIO3i
+#EXTGRP:unsorted
+https://icecast.gruppocdt.ch/radio3i-256.mp3
+#EXTINF:0,RMI RADIO MORCOTE INTERNATIONAL
+#EXTGRP:unsorted
+http://streaming.radiomorcoteinternational.com:8000/;
+#EXTINF:0,VINTAGE RADIO SWITZERLAND
+#EXTGRP:unsorted
+https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:0,RETE UNO
+#EXTGRP:unsorted
+https://lsaplus.swisstxt.ch/audio/reteuno_96.stream/chunklist_DVR.m3u8
+#EXTINF:0,RETE DUE
+#EXTGRP:unsorted
+https://lsaplus.swisstxt.ch/audio/retedue_96.stream/chunklist_DVR.m3u8
+#EXTINF:0,RETE TRE
+#EXTGRP:unsorted
+https://lsaplus.swisstxt.ch/audio/retetre_96.stream/chunklist_DVR.m3u8
+#EXTINF:0,SWISSPOP
+#EXTGRP:unsorted
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:0,SWISSCLASSIC
+#EXTGRP:unsorted
+https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:0,SWISSJAZZ
+#EXTGRP:unsorted
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:0,ASCONA JAZZ
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:9505/stream
+#EXTINF:0,RADIO TICINO LOCARNO
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8502/stream
+#EXTINF:0,RFT POP
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8503/stream
+#EXTINF:0,RFT HITS
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8525/stream
+#EXTINF:0,RFT GOLD
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8514/stream
+#EXTINF:0,RFT MADE IN ITALY
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8508/stream
+#EXTINF:0,RFT ROCK
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8507/stream
+#EXTINF:0,RFT CHARME
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8504/stream
+#EXTINF:0,RFT SWISS MUSIC CLUB
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8506/stream
+#EXTINF:0,RFT ACUSTICA
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8533/stream
+#EXTINF:0,RFT NATALE
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8512/stream
+#EXTINF:0,RFT CARNEVALE
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8535/stream
+#EXTINF:0,RFT INTO THE NIGHT
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:9553/stream
+#EXTINF:0,RFT NON HO L'ETA'
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8512/stream
+#EXTINF:0,RFT OMEGA 1
+#EXTGRP:unsorted
+https://streaming.smartradio.ch:8530/stream
+#EXTINF:0,ROUGE fm
+#EXTGRP:unsorted
+http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+#EXTINF:0,OTTO FM SOLO MUSICA ANNI 80
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:12000/ottofm.mp3
+#EXTINF:0,OTTO FM ITALY
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:12000/ottofmita.mp3
+#EXTINF:0,OTTO CHIC FM VINTAGE
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:12000/chicfm.mp3
+#EXTINF:0,RETEOTTO NETWORK - L'ITALIANA NEL MONDO
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:12000/reteotto.mp3
+#EXTINF:0,OTTO VINYL FM
+#EXTGRP:unsorted
+http://streaming.bitonlive.net:12000/vinylfm.mp3
+#EXTINF:0,Radio Koper Capodistria
+#EXTGRP:unsorted
+https://36-rtvslo-ra-capo.cdn.eurovisioncdn.net/chunklist_DVR.m3u8
+#EXTINF:0,RTL BEST
+#EXTGRP:unsorted
+https://rtl-radio2-stream.thron.com/live/radio2/radio2/chunklist.m3u8
+#EXTINF:0,RTL 102.5 DOC
+#EXTGRP:unsorted
+https://rtl-radio12-stream.thron.com/live/radio12/radio12/chunklist.m3u8
+#EXTINF:0,RTL 102.5 VIARADIO - NEWS
+#EXTGRP:unsorted
+https://rtl-radio13-stream.thron.com/live/radio13/radio13/chunklist.m3u8
+#EXTINF:0,RTL 102.5 NAPULE'
+#EXTGRP:unsorted
+https://rtl-radio11-stream.thron.com/live/radio11/radio11/chunklist.m3u8
+#EXTINF:0,RTL 102.5 ROMEO&JULIET
+#EXTGRP:unsorted
+https://rtl-radio7-stream.thron.com/live/radio7/radio7/chunklist.m3u8
+#EXTINF:0,RTL 102.5 GUARDIA COSTIERA
+#EXTGRP:unsorted
+https://rtl-radio5-stream.thron.com/live/radio5/radio5/chunklist.m3u8
+#EXTINF:0,RADIOFRECCIA
+#EXTGRP:unsorted
+https://rtl-radio6-stream.thron.com/live/radio6/radio6/chunklist.m3u8
+#EXTINF:0,RADIO ZETA
+#EXTGRP:unsorted
+https://rtl-radio3-stream.thron.com/live/radio3/radio3/chunklist.m3u8
+#EXTINF:0,105 DANCE 90
+#EXTGRP:unsorted
+http://icy.unitedradio.it/105Dance90.mp3
+#EXTINF:0,105 Story
+#EXTGRP:unsorted
+http://icy.unitedradio.it/105Story.mp3
+#EXTINF:0,SUBASIO
+#EXTGRP:unsorted
+http://icy.unitedradio.it/Subasio.mp3
+#EXTINF:0,SUBASIO Collection
+#EXTGRP:unsorted
+http://icy.unitedradio.it/SubasioCollection.mp3
+#EXTINF:0,SUBASIO Per un'ora d'amore
+#EXTGRP:unsorted
+http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+#EXTINF:0,RadioMonteCarlo RMC
+#EXTGRP:unsorted
+http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:0,RMC Acoustic
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb016
+#EXTINF:0,RMC Fitness
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb023
+#EXTINF:0,RMC 80
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb008
+#EXTINF:0,RMC 90
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb009
+#EXTINF:0,RMC Buddah Bar
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb002
+#EXTINF:0,RMC Duets
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb003
+#EXTINF:0,RMC Great Artist
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb007
+#EXTINF:0,RMC Hits
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb001
+#EXTINF:0,RMC Italia
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb005
+#EXTINF:0,RMC Ladys
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb017
+#EXTINF:0,RMC Love Songs
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb006
+#EXTINF:0,RMC Marine
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb010
+#EXTINF:0,RMC New Classic
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb011
+#EXTINF:0,RMC Next
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb019
+#EXTINF:0,RMC Nights Story
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb012
+#EXTINF:0,RMC PArty
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb018
+#EXTINF:0,RMC Romantic Rock
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb015
+#EXTINF:0,RMC Running Radio
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb021
+#EXTINF:0,RMC Vip Lounch
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb020
+#EXTINF:0,RMC Voyage Voyage
+#EXTGRP:unsorted
+http://icy.unitedradio.it/rmcweb022
+#EXTINF:0,Oldradio Web
+#EXTGRP:unsorted
+http://listen.radionomy.com/oldradioweb.m3u
+#EXTINF:0,Nostalgie FR Dab+
+#EXTGRP:unsorted
+http://185.52.127.173/fr/30601/aac_64.mp3?listenerid=3b0ecf7c6adcb373514012501f4301de&awparams=companionAds%3Atrue;
+#EXTINF:0,105 CLASSIC
+#EXTGRP:unsorted
+http://icy.unitedradio.it/105Classics.mp3
+#EXTINF:0,BBC Radio 1
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one?s=1617796373&e=1617810773&h=0ec835ba27f500c7ce1c11a8e8ac703e
+#EXTINF:0,BBC 1 Extra
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra?s=1617796494&e=1617810894&h=e170359028af12cfbfe4b14f8779246c
+#EXTINF:0,BBC Radio 2
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two?s=1617796509&e=1617810909&h=b3502442e4826ca0a459a5d84d4aa208
+#EXTINF:0,BBC Radio 3
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three?s=1617796521&e=1617810921&h=66b4b3af0b8d63f2bc021c158319a90c
+#EXTINF:0,BBC Radio 4
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm?s=1617796533&e=1617810933&h=d28a8ba7805aa83dbd937f9a0b2dbf2c
+#EXTINF:0,BBC Radio 5 live
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk?s=1617796543&e=1617810943&h=f0547a2a51bd1414ee5ec33a58f7d446
+#EXTINF:0,BBC Radio 6
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_6music?s=1617796553&e=1617810953&h=a46faab016ae0c230e9409d2a735a6e1
+#EXTINF:0,BBC Radio London
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_london?s=1617796593&e=1617810993&h=0912a82f9c47c9d9f4495852f7531fc9
+#EXTINF:0,BBC MERSEYSIDE
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester?s=1617796618&e=1617811018&h=249f22b7e94417e75006a7a46d2dfcb7
+#EXTINF:0,BBC MANCHESTER
+#EXTGRP:unsorted
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester?s=1617797601&e=1617812001&h=18992ec837b3d895334e6647343c8fda
+#EXTINF:0,GOLD UK  Dab+
+#EXTGRP:unsorted
+http://media-ice.musicradio.com:80/GoldMP3
+#EXTINF:0,THAMES FM
+#EXTGRP:unsorted
+https://streamer.radio.co/s7379f3184/listen
+#EXTINF:0,NATION RADIO UK (THAMES RADIO)
+#EXTGRP:unsorted
+http://edge-ads-05-gos2.sharp-stream.com/thamesradio.mp3?___cb=809677002940239
+#EXTINF:0,GAYDIO
+#EXTGRP:unsorted
+http://listen-gaydio.sharp-stream.com/gaydioukhq.mp3?ref=RF
+#EXTINF:0,GREATESTHITS UK
+#EXTGRP:unsorted
+http://tx.planetradio.co.uk/icecast.php?i=net2national.mp3
+#EXTINF:0,LOVE 80S LIVERPOOL
+#EXTGRP:unsorted
+http://rss-streaming.co.uk:8062/;
+#EXTINF:0,CITY LIVERPOOL
+#EXTGRP:unsorted
+https://stream-al.planetradio.co.uk/city.aac
+#EXTINF:0,RADIO CAROLINE NORTH
+#EXTGRP:unsorted
+http://www.radiocaroline.co.uk/sounds/north_loop_64.mp3
+#EXTINF:0,I LOVE 80S MUSIC
+#EXTGRP:unsorted
+http://104.247.221.130:9020/stream1
+#EXTINF:0,HEART 70S
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/Heart70s?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613826901843_0.9014817235839313&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613826901&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,HEART 80S
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/Heart80s?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613826744658_0.47227794940235435&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613826744&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,HEART 90S
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/Heart90s?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613826866274_0.5050854869585355&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613826866&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,CAPITAL
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/CapitalUK?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827031186_0.32160289762713445&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827031&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,CAPITAL XTRA
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/CapitalXTRANational?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827084394_0.7647696582580441&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827084&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,CAPITAL RELOADED
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/CapitalXTRAReloaded?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827147282_0.05967328183538789&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827147&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,SMOOTH
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/SmoothUK?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827198882_0.7474503164386396&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827198&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,SMOOTH CHILL
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/SmoothChill?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827234930_0.16241870968762673&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827234&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,SMOOTH COUNTRY
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/SmoothCountry?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827314681_0.3767292710313025&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827314&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,RADIO X
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/RadioXUK?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827360009_0.029508124600998498&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827360&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,CLASSIC FM
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/ClassicFM?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827417938_0.530892573058377&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827417&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,LBC
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/LBCUK?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613827465361_0.5899742011392838&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613827465&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,BFBS UK
+#EXTGRP:unsorted
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:0,BFBS RADIO 2
+#EXTGRP:unsorted
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:0,BFBS REWIND
+#EXTGRP:unsorted
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:0,BFBS BRIZE NORTON
+#EXTGRP:unsorted
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac
+#EXTINF:0,RADIO ADORE JAZZ FM
+#EXTGRP:unsorted
+http://sc-ajazz.1.fm:5084
+#EXTINF:0,Radio Caroline
+#EXTGRP:unsorted
+http://78.129.202.200:8030/;
+#EXTINF:0,Radio North Sea
+#EXTGRP:unsorted
+http://109.169.54.86:8008/stream
+#EXTINF:0,Pirate FM 80
+#EXTGRP:unsorted
+http://str1.sad.ukrd.com/pirate-80s.mp3
+#EXTINF:0,Absolute Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absoluteradio.mp3
+#EXTINF:0,Absolute 60s Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absolute60s.mp3
+#EXTINF:0,Absolute 70s Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absolute70s.mp3
+#EXTINF:0,Absolute 80s Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absolute80s.mp3
+#EXTINF:0,Absolute 90s Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absolute90s.mp3
+#EXTINF:0,Absolute 00s Dab+
+#EXTGRP:unsorted
+http://live-absolute.sharp-stream.com/absolute00s.mp3
+#EXTINF:0,Eagle Radio Dab+
+#EXTGRP:unsorted
+http://str1.sad.ukrd.com/eagle-dab.mp3
+#EXTINF:0,All retro UK
+#EXTGRP:unsorted
+http://hydra.cdnstream.com:80/1819_320
+#EXTINF:0,JACK FM
+#EXTGRP:unsorted
+http://19993.live.streamtheworld.com:80/JACK_FM_SC
+#EXTINF:0,JACK Fm Uk Dab+
+#EXTGRP:unsorted
+http://21283.live.streamtheworld.com:80/JACK_RADIO_SC
+#EXTINF:0,Love 80s Liverpool Dab+
+#EXTGRP:unsorted
+http://rss-streaming.co.uk:8062/mp3
+#EXTINF:0,Smooth UK Dab+
+#EXTGRP:unsorted
+http://media-ice.musicradio.com:80/SmoothUKMP3
+#EXTINF:0,Heart London Dab+
+#EXTGRP:unsorted
+http://media-ice.musicradio.com:80/HeartLondonMP3
+#EXTINF:0,HEART UK
+#EXTGRP:unsorted
+https://media-ssl.musicradio.com/HeartUK?isLoggedIn=false&dax_version=release_2078&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1613826966794_0.48396360300784114&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1613826966&aw_0_req.userConsentV2=CPB5zAyPB5zAyAGABCENBOCgAAAAAENAAAQ4AAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:0,JACK Fm Uk Dab+
+#EXTGRP:unsorted
+http://20723.live.streamtheworld.com:80/JACK_RADIO_SC
